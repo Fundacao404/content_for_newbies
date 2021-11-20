@@ -1,0 +1,31 @@
+Básico do termux e os comandos iniciais como
+apt update && apt upgrade 
+
+Esse comando serve para atualizar o terminal e preparar ele para funcionar Logo depois venha com 
+pkg install python 
+pkg install python2
+pkg install python3
+
+O python é a ferramenta essencial sem ela você não poderá fazer quase nada no termux
+
+Agora venha com 
+pkg install git
+esse comando faz com que o git clone funcione isso vai fazer com que você possa instalar as ferramentas no terminal sem problemas
+
+Alguns comandos como 
+
+pkg install php 
+ou 
+pkg install pip 
+
+só são essenciais se o script pedir para instalar eles
+
+Se você está com algum erro lembre-se tudos os comandos tem que ser em letra minúscula só as letras que estiverem maiusculas ficar assim se não já sabe
+
+Agora fica com
+
+git clone (site)
+
+você precisa ter o link da ferramenta do git 
+
+O termux é um terminal como o kali linux mais por ser android ele é quase todo manual ou seja muitas das coisas que o terminal oferece precisa de links Ele é muito bom para gerar link, fazer tela fake, ataque ddos, pegar ip de sites, fazer varredura com sqlmap e outras coisas
