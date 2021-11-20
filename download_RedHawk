@@ -1,0 +1,32 @@
+Red hawk e uma ferramenta muito usada no termux com ela você puxa ip de um site entre outras informações 
+
+apt update && apt upgrade
+pkg install python
+pkg install python2
+pkg install python3
+pkg install git
+pkg install php
+git clone https://github.com/tuhinshubhra/RED_HAWK
+cd RED_HAWK
+php rhawnk.php
+
+IAll In One Tool For Information Gathering And Vulnerability Scanning
+. . . .
+. | | .
+. | | .
+. .
+@@@@@ . | (\.|\/|./) | . ___ ____
+██████╗ ███████╗██████╗ ### ### @@@@ @@@@ . (\ |||||| /) . | | / /
+██╔══██╗██╔════╝██╔══██╗ ### ### @@@@ @@@@ | (\ |/ \| /) | | |/ /
+██████╔╝█████╗ ██║ ██║ ########### @@@@@@@@@@@ (\ ) | /
+██╔══██╗██╔══╝ ██║ ██║ ########### @@@@@@@@@@@ (\ Ver 2.0.0 /) | \
+██║ ██║███████╗██████╔╝ ### ### @@@ @@@ \ \/ / | |\ \
+╚═╝ ╚═╝╚══════╝╚═════╝ ### ### @@@ @@@ \____/\/\____/ |___| \___\
+|0\/0|
+{C} Coded By - R3D#@X0R_2H1N A.K.A Tuhinshubhra \/\/
+\/ [$] Shout Out - You ;)
+[#] Enter The Website You Want To Scan :o
+
+Essa é a interface que vai aparecer depois que vc fizer tudo após isso logo depois do "you want tô scan" você coloca o site tipo se o site é assim https:/sitetermuxcurso.com/br.net você corta e vai colocar apenas sitetermuxcurso.com você recorta tudo depois do .com é tudo antes do // 
+
+Aqui você vai por se ele é HTTP ou https no caso http:// você digita 1 https:// você digita 2 no caso o site que eu mandei que e um site fictício eu teria que digitar 2
