@@ -1,0 +1,12 @@
+Esses são os comandos iniciais do termux 
+
+apt update
+pkg upgrade
+pkg install python
+pkg install python2
+pkg install python3
+pkg install pip 
+pkg install php
+pkg install dnsutils 
+
+Toda vez que pé uma permissão digite Y e enter ou coloque -y depois do comando
