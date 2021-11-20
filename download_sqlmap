@@ -1,0 +1,25 @@
+comandos como ls e cd são muito utilizados pois eles tem funções boas
+O ls te informa de maneiras de ativar a ferramenta exemplo
+Você instalo a ferramenta sqlmap deu cd sqlmap não sabe como abri você vai lá e digita ls é vai aparecer, todas as vezes que aparecer (nome).py ele é com python então toda vez que acabar com .py você digita python ou python2 (ferramenta) no nosso caso sql então ficaria 
+python sqlmap.py
+
+pkg install git
+pkg install python
+git clone https://github.com/sq.lmapproject/sqlmap
+cd sqlmap
+python2 sqlmap.py -u (site) --dbs
+
+A ferramenta sql é usada para encontrar falhas e vulnerabilidades em um site muito usada no kali Linux para encontrar brechas e ajudar na invasão 
+
+___
+       __H__
+ ___ ___[,]_____ ___ ___  {1.5.11.9#dev}
+|_ -| . [,]     | .'| . |
+|___|_  [.]_|_|_|__,|  _|
+      |_|V...       |_|   https://sqlmap.org
+
+Usage: python sqlmap.py [options]
+
+sqlmap.py: error: missing a mandatory option (-d, -u, -l, -m, -r, -g, -c, --wizard, --shell, --update, --purge, --list-tampers or --dependencies). Use -h for basic and -hh for advanced help
+
+Essa e sua interface
